@@ -1,0 +1,691 @@
+dataset,dataset_id,condition,point_type,algorithm_id,candidate_name,primary_reason,reason_record_n,reason_participant_n,reason_unique_beat_n,attempted_failure_reason_n,total_record_n,total_participant_n,attempted_denominator_n,valid_n,original_missed_n,original_invalid_n,upstream_ineligible_n,failed_or_ineligible_n,reason_proportion_of_failed_or_ineligible,reason_proportion_of_attempted_failures,unresolved_n,unresolved_proportion
+HeartCycle,heartcycle_healthy,healthy,B,B1,B_last_local_minimum,no qualifying feature or crossing,195,11,195,195,1706,17,1705,1510,195,0,1,196,0.9948979591836736,1.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B1,B_last_local_minimum,other verified reason,0,0,0,0,1706,17,1705,1510,195,0,1,196,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B1,B_last_local_minimum,rejected boundary/order constraint,0,0,0,0,1706,17,1705,1510,195,0,1,196,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B1,B_last_local_minimum,unresolved,0,0,0,0,1706,17,1705,1510,195,0,1,196,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B1,B_last_local_minimum,unusable search window,0,0,0,0,1706,17,1705,1510,195,0,1,196,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B1,B_last_local_minimum,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1510,195,0,1,196,0.0051020408163265,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B10,B_15pct_upstroke,no qualifying feature or crossing,4,3,4,4,1706,17,1705,1698,4,3,1,8,0.5,0.5714285714285714,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B10,B_15pct_upstroke,other verified reason,0,0,0,0,1706,17,1705,1698,4,3,1,8,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B10,B_15pct_upstroke,rejected boundary/order constraint,3,2,3,3,1706,17,1705,1698,4,3,1,8,0.375,0.4285714285714285,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B10,B_15pct_upstroke,unresolved,0,0,0,0,1706,17,1705,1698,4,3,1,8,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B10,B_15pct_upstroke,unusable search window,0,0,0,0,1706,17,1705,1698,4,3,1,8,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B10,B_15pct_upstroke,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1698,4,3,1,8,0.125,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unusable search window,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1705,0,0,1,1,1.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B3,B_d3_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1677,0,28,1,29,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B3,B_d3_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,1706,17,1705,1677,0,28,1,29,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B3,B_d3_max_Cminus150_to_Cminus30,rejected boundary/order constraint,28,7,28,28,1706,17,1705,1677,0,28,1,29,0.9655172413793104,1.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B3,B_d3_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,1706,17,1705,1677,0,28,1,29,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B3,B_d3_max_Cminus150_to_Cminus30,unusable search window,0,0,0,0,1706,17,1705,1677,0,28,1,29,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B3,B_d3_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1677,0,28,1,29,0.0344827586206896,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B4,B_dzdt_45pct_upstroke,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B4,B_dzdt_45pct_upstroke,other verified reason,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B4,B_dzdt_45pct_upstroke,rejected boundary/order constraint,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B4,B_dzdt_45pct_upstroke,unresolved,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B4,B_dzdt_45pct_upstroke,unusable search window,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B4,B_dzdt_45pct_upstroke,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1705,0,0,1,1,1.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B5,B_dzdt_25pct_upstroke,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B5,B_dzdt_25pct_upstroke,other verified reason,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B5,B_dzdt_25pct_upstroke,rejected boundary/order constraint,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B5,B_dzdt_25pct_upstroke,unresolved,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B5,B_dzdt_25pct_upstroke,unusable search window,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B5,B_dzdt_25pct_upstroke,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1705,0,0,1,1,1.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B6,B_d2_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1691,0,14,1,15,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B6,B_d2_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,1706,17,1705,1691,0,14,1,15,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B6,B_d2_max_Cminus150_to_Cminus30,rejected boundary/order constraint,14,3,14,14,1706,17,1705,1691,0,14,1,15,0.9333333333333332,1.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B6,B_d2_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,1706,17,1705,1691,0,14,1,15,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B6,B_d2_max_Cminus150_to_Cminus30,unusable search window,0,0,0,0,1706,17,1705,1691,0,14,1,15,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B6,B_d2_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1691,0,14,1,15,0.0666666666666666,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,212,11,212,212,1706,17,1705,1475,212,18,1,231,0.9177489177489178,0.9217391304347826,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,1706,17,1705,1475,212,18,1,231,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,18,6,18,18,1706,17,1705,1475,212,18,1,231,0.0779220779220779,0.0782608695652174,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,1706,17,1705,1475,212,18,1,231,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unusable search window,0,0,0,0,1706,17,1705,1475,212,18,1,231,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1475,212,18,1,231,0.0043290043290043,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B8,B_55pct_RC,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B8,B_55pct_RC,other verified reason,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B8,B_55pct_RC,rejected boundary/order constraint,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B8,B_55pct_RC,unresolved,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B8,B_55pct_RC,unusable search window,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B8,B_55pct_RC,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1705,0,0,1,1,1.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B9,B_adaptive_baseline_10pct_upstroke,no qualifying feature or crossing,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B9,B_adaptive_baseline_10pct_upstroke,other verified reason,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B9,B_adaptive_baseline_10pct_upstroke,rejected boundary/order constraint,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B9,B_adaptive_baseline_10pct_upstroke,unresolved,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B9,B_adaptive_baseline_10pct_upstroke,unusable search window,0,0,0,0,1706,17,1705,1705,0,0,1,1,0.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,B,B9,B_adaptive_baseline_10pct_upstroke,upstream dependency/ineligibility,1,1,1,0,1706,17,1705,1705,0,0,1,1,1.0,,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X1,X_first_local_minimum,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X1,X_first_local_minimum,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X1,X_first_local_minimum,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X1,X_first_local_minimum,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X1,X_first_local_minimum,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X1,X_first_local_minimum,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X10,X_Weissler_HR,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1705,1,0,0,1,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X10,X_Weissler_HR,other verified reason,0,0,0,0,1706,17,1706,1705,1,0,0,1,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X10,X_Weissler_HR,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1705,1,0,0,1,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X10,X_Weissler_HR,unresolved,0,0,0,0,1706,17,1706,1705,1,0,0,1,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X10,X_Weissler_HR,unusable search window,0,0,0,0,1706,17,1706,1705,1,0,0,1,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X10,X_Weissler_HR,upstream dependency/ineligibility,1,1,1,1,1706,17,1706,1705,1,0,0,1,1.0,1.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X11,X_adaptive_half_descent_to_trough,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X11,X_adaptive_half_descent_to_trough,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X11,X_adaptive_half_descent_to_trough,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X11,X_adaptive_half_descent_to_trough,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X11,X_adaptive_half_descent_to_trough,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X11,X_adaptive_half_descent_to_trough,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X12,X_rr_adaptive_global_minimum,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X12,X_rr_adaptive_global_minimum,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X12,X_rr_adaptive_global_minimum,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X12,X_rr_adaptive_global_minimum,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X12,X_rr_adaptive_global_minimum,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X12,X_rr_adaptive_global_minimum,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X13,X_15pct_downstroke,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X13,X_15pct_downstroke,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X13,X_15pct_downstroke,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X13,X_15pct_downstroke,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X13,X_15pct_downstroke,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X13,X_15pct_downstroke,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X2,X_global_minimum,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X2,X_global_minimum,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X2,X_global_minimum,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X2,X_global_minimum,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X2,X_global_minimum,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X2,X_global_minimum,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X4,X_d3_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,1706,17,1706,872,0,834,0,834,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X4,X_d3_min_C_to_nextR,other verified reason,0,0,0,0,1706,17,1706,872,0,834,0,834,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X4,X_d3_min_C_to_nextR,rejected boundary/order constraint,834,17,834,834,1706,17,1706,872,0,834,0,834,1.0,1.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X4,X_d3_min_C_to_nextR,unresolved,0,0,0,0,1706,17,1706,872,0,834,0,834,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X4,X_d3_min_C_to_nextR,unusable search window,0,0,0,0,1706,17,1706,872,0,834,0,834,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X4,X_d3_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,872,0,834,0,834,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X5,X_dzdt_45pct_downstroke,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X5,X_dzdt_45pct_downstroke,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X5,X_dzdt_45pct_downstroke,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X5,X_dzdt_45pct_downstroke,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X5,X_dzdt_45pct_downstroke,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X5,X_dzdt_45pct_downstroke,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X6,X_dzdt_25pct_downstroke,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X6,X_dzdt_25pct_downstroke,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X6,X_dzdt_25pct_downstroke,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X6,X_dzdt_25pct_downstroke,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X6,X_dzdt_25pct_downstroke,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X6,X_dzdt_25pct_downstroke,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X8,X_second_derivative_after_minimum,no qualifying feature or crossing,24,2,24,24,1706,17,1706,1682,24,0,0,24,1.0,1.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X8,X_second_derivative_after_minimum,other verified reason,0,0,0,0,1706,17,1706,1682,24,0,0,24,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X8,X_second_derivative_after_minimum,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1682,24,0,0,24,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X8,X_second_derivative_after_minimum,unresolved,0,0,0,0,1706,17,1706,1682,24,0,0,24,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X8,X_second_derivative_after_minimum,unusable search window,0,0,0,0,1706,17,1706,1682,24,0,0,24,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X8,X_second_derivative_after_minimum,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1682,24,0,0,24,0.0,0.0,0,0.0
+HeartCycle,heartcycle_healthy,healthy,X,X9,X_d2_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X9,X_d2_min_C_to_nextR,other verified reason,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X9,X_d2_min_C_to_nextR,rejected boundary/order constraint,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X9,X_d2_min_C_to_nextR,unresolved,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X9,X_d2_min_C_to_nextR,unusable search window,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+HeartCycle,heartcycle_healthy,healthy,X,X9,X_d2_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,1706,17,1706,1706,0,0,0,0,,,0,
+IITB,iitb_normal,normal,B,B1,B_last_local_minimum,no qualifying feature or crossing,441,17,441,441,2022,18,1998,1557,441,0,24,465,0.9483870967741936,1.0,0,0.0
+IITB,iitb_normal,normal,B,B1,B_last_local_minimum,other verified reason,0,0,0,0,2022,18,1998,1557,441,0,24,465,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B1,B_last_local_minimum,rejected boundary/order constraint,0,0,0,0,2022,18,1998,1557,441,0,24,465,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B1,B_last_local_minimum,unresolved,0,0,0,0,2022,18,1998,1557,441,0,24,465,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B1,B_last_local_minimum,unusable search window,0,0,0,0,2022,18,1998,1557,441,0,24,465,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B1,B_last_local_minimum,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1557,441,0,24,465,0.0516129032258064,0.0,0,0.0
+IITB,iitb_normal,normal,B,B10,B_15pct_upstroke,no qualifying feature or crossing,420,14,420,420,2022,18,1998,1567,420,11,24,455,0.9230769230769232,0.974477958236659,0,0.0
+IITB,iitb_normal,normal,B,B10,B_15pct_upstroke,other verified reason,0,0,0,0,2022,18,1998,1567,420,11,24,455,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B10,B_15pct_upstroke,rejected boundary/order constraint,11,5,11,11,2022,18,1998,1567,420,11,24,455,0.0241758241758241,0.025522041763341,0,0.0
+IITB,iitb_normal,normal,B,B10,B_15pct_upstroke,unresolved,0,0,0,0,2022,18,1998,1567,420,11,24,455,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B10,B_15pct_upstroke,unusable search window,0,0,0,0,2022,18,1998,1567,420,11,24,455,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B10,B_15pct_upstroke,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1567,420,11,24,455,0.0527472527472527,0.0,0,0.0
+IITB,iitb_normal,normal,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,12,4,12,12,2022,18,1998,1980,18,0,24,42,0.2857142857142857,0.6666666666666666,0,0.0
+IITB,iitb_normal,normal,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,2022,18,1998,1980,18,0,24,42,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,0,0,0,0,2022,18,1998,1980,18,0,24,42,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,2022,18,1998,1980,18,0,24,42,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unusable search window,6,4,6,6,2022,18,1998,1980,18,0,24,42,0.1428571428571428,0.3333333333333333,0,0.0
+IITB,iitb_normal,normal,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1980,18,0,24,42,0.5714285714285714,0.0,0,0.0
+IITB,iitb_normal,normal,B,B3,B_d3_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,2022,18,1998,1924,17,57,24,98,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B3,B_d3_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,2022,18,1998,1924,17,57,24,98,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B3,B_d3_max_Cminus150_to_Cminus30,rejected boundary/order constraint,57,10,57,57,2022,18,1998,1924,17,57,24,98,0.5816326530612245,0.7702702702702703,0,0.0
+IITB,iitb_normal,normal,B,B3,B_d3_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,2022,18,1998,1924,17,57,24,98,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B3,B_d3_max_Cminus150_to_Cminus30,unusable search window,17,7,17,17,2022,18,1998,1924,17,57,24,98,0.173469387755102,0.2297297297297297,0,0.0
+IITB,iitb_normal,normal,B,B3,B_d3_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1924,17,57,24,98,0.2448979591836734,0.0,0,0.0
+IITB,iitb_normal,normal,B,B4,B_dzdt_45pct_upstroke,no qualifying feature or crossing,98,10,98,98,2022,18,1998,1898,98,2,24,124,0.7903225806451613,0.98,0,0.0
+IITB,iitb_normal,normal,B,B4,B_dzdt_45pct_upstroke,other verified reason,0,0,0,0,2022,18,1998,1898,98,2,24,124,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B4,B_dzdt_45pct_upstroke,rejected boundary/order constraint,2,1,2,2,2022,18,1998,1898,98,2,24,124,0.0161290322580645,0.02,0,0.0
+IITB,iitb_normal,normal,B,B4,B_dzdt_45pct_upstroke,unresolved,0,0,0,0,2022,18,1998,1898,98,2,24,124,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B4,B_dzdt_45pct_upstroke,unusable search window,0,0,0,0,2022,18,1998,1898,98,2,24,124,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B4,B_dzdt_45pct_upstroke,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1898,98,2,24,124,0.1935483870967742,0.0,0,0.0
+IITB,iitb_normal,normal,B,B5,B_dzdt_25pct_upstroke,no qualifying feature or crossing,263,13,263,263,2022,18,1998,1727,263,8,24,295,0.8915254237288136,0.970479704797048,0,0.0
+IITB,iitb_normal,normal,B,B5,B_dzdt_25pct_upstroke,other verified reason,0,0,0,0,2022,18,1998,1727,263,8,24,295,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B5,B_dzdt_25pct_upstroke,rejected boundary/order constraint,8,6,8,8,2022,18,1998,1727,263,8,24,295,0.0271186440677966,0.029520295202952,0,0.0
+IITB,iitb_normal,normal,B,B5,B_dzdt_25pct_upstroke,unresolved,0,0,0,0,2022,18,1998,1727,263,8,24,295,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B5,B_dzdt_25pct_upstroke,unusable search window,0,0,0,0,2022,18,1998,1727,263,8,24,295,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B5,B_dzdt_25pct_upstroke,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1727,263,8,24,295,0.0813559322033898,0.0,0,0.0
+IITB,iitb_normal,normal,B,B6,B_d2_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,2022,18,1998,1829,17,152,24,193,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B6,B_d2_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,2022,18,1998,1829,17,152,24,193,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B6,B_d2_max_Cminus150_to_Cminus30,rejected boundary/order constraint,152,9,152,152,2022,18,1998,1829,17,152,24,193,0.7875647668393783,0.8994082840236687,0,0.0
+IITB,iitb_normal,normal,B,B6,B_d2_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,2022,18,1998,1829,17,152,24,193,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B6,B_d2_max_Cminus150_to_Cminus30,unusable search window,17,7,17,17,2022,18,1998,1829,17,152,24,193,0.0880829015544041,0.1005917159763313,0,0.0
+IITB,iitb_normal,normal,B,B6,B_d2_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1829,17,152,24,193,0.1243523316062176,0.0,0,0.0
+IITB,iitb_normal,normal,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,430,17,430,430,2022,18,1998,1548,436,14,24,474,0.9071729957805909,0.9555555555555556,0,0.0
+IITB,iitb_normal,normal,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,2022,18,1998,1548,436,14,24,474,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,14,9,14,14,2022,18,1998,1548,436,14,24,474,0.0295358649789029,0.0311111111111111,0,0.0
+IITB,iitb_normal,normal,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,2022,18,1998,1548,436,14,24,474,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unusable search window,6,4,6,6,2022,18,1998,1548,436,14,24,474,0.0126582278481012,0.0133333333333333,0,0.0
+IITB,iitb_normal,normal,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1548,436,14,24,474,0.050632911392405,0.0,0,0.0
+IITB,iitb_normal,normal,B,B8,B_55pct_RC,no qualifying feature or crossing,0,0,0,0,2022,18,1998,1997,0,1,24,25,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B8,B_55pct_RC,other verified reason,0,0,0,0,2022,18,1998,1997,0,1,24,25,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B8,B_55pct_RC,rejected boundary/order constraint,1,1,1,1,2022,18,1998,1997,0,1,24,25,0.04,1.0,0,0.0
+IITB,iitb_normal,normal,B,B8,B_55pct_RC,unresolved,0,0,0,0,2022,18,1998,1997,0,1,24,25,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B8,B_55pct_RC,unusable search window,0,0,0,0,2022,18,1998,1997,0,1,24,25,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B8,B_55pct_RC,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1997,0,1,24,25,0.96,0.0,0,0.0
+IITB,iitb_normal,normal,B,B9,B_adaptive_baseline_10pct_upstroke,no qualifying feature or crossing,0,0,0,0,2022,18,1998,1990,0,8,24,32,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B9,B_adaptive_baseline_10pct_upstroke,other verified reason,0,0,0,0,2022,18,1998,1990,0,8,24,32,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B9,B_adaptive_baseline_10pct_upstroke,rejected boundary/order constraint,8,4,8,8,2022,18,1998,1990,0,8,24,32,0.25,1.0,0,0.0
+IITB,iitb_normal,normal,B,B9,B_adaptive_baseline_10pct_upstroke,unresolved,0,0,0,0,2022,18,1998,1990,0,8,24,32,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B9,B_adaptive_baseline_10pct_upstroke,unusable search window,0,0,0,0,2022,18,1998,1990,0,8,24,32,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,B,B9,B_adaptive_baseline_10pct_upstroke,upstream dependency/ineligibility,24,7,24,0,2022,18,1998,1990,0,8,24,32,0.75,0.0,0,0.0
+IITB,iitb_normal,normal,X,X1,X_first_local_minimum,no qualifying feature or crossing,12,2,12,12,2022,18,2022,2010,12,0,0,12,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X1,X_first_local_minimum,other verified reason,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X1,X_first_local_minimum,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X1,X_first_local_minimum,unresolved,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X1,X_first_local_minimum,unusable search window,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X1,X_first_local_minimum,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X10,X_Weissler_HR,no qualifying feature or crossing,0,0,0,0,2022,18,2022,1995,25,2,0,27,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X10,X_Weissler_HR,other verified reason,0,0,0,0,2022,18,2022,1995,25,2,0,27,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X10,X_Weissler_HR,rejected boundary/order constraint,2,2,2,2,2022,18,2022,1995,25,2,0,27,0.074074074074074,0.074074074074074,0,0.0
+IITB,iitb_normal,normal,X,X10,X_Weissler_HR,unresolved,0,0,0,0,2022,18,2022,1995,25,2,0,27,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X10,X_Weissler_HR,unusable search window,0,0,0,0,2022,18,2022,1995,25,2,0,27,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X10,X_Weissler_HR,upstream dependency/ineligibility,25,8,25,25,2022,18,2022,1995,25,2,0,27,0.925925925925926,0.925925925925926,0,0.0
+IITB,iitb_normal,normal,X,X11,X_adaptive_half_descent_to_trough,no qualifying feature or crossing,0,0,0,0,2022,18,2022,2017,5,0,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X11,X_adaptive_half_descent_to_trough,other verified reason,0,0,0,0,2022,18,2022,2017,5,0,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X11,X_adaptive_half_descent_to_trough,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2017,5,0,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X11,X_adaptive_half_descent_to_trough,unresolved,0,0,0,0,2022,18,2022,2017,5,0,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X11,X_adaptive_half_descent_to_trough,unusable search window,5,2,5,5,2022,18,2022,2017,5,0,0,5,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X11,X_adaptive_half_descent_to_trough,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2017,5,0,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X12,X_rr_adaptive_global_minimum,no qualifying feature or crossing,0,0,0,0,2022,18,2022,2013,0,9,0,9,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X12,X_rr_adaptive_global_minimum,other verified reason,0,0,0,0,2022,18,2022,2013,0,9,0,9,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X12,X_rr_adaptive_global_minimum,rejected boundary/order constraint,9,2,9,9,2022,18,2022,2013,0,9,0,9,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X12,X_rr_adaptive_global_minimum,unresolved,0,0,0,0,2022,18,2022,2013,0,9,0,9,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X12,X_rr_adaptive_global_minimum,unusable search window,0,0,0,0,2022,18,2022,2013,0,9,0,9,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X12,X_rr_adaptive_global_minimum,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2013,0,9,0,9,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X13,X_15pct_downstroke,no qualifying feature or crossing,8,4,8,8,2022,18,2022,2009,13,0,0,13,0.6153846153846154,0.6153846153846154,0,0.0
+IITB,iitb_normal,normal,X,X13,X_15pct_downstroke,other verified reason,0,0,0,0,2022,18,2022,2009,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X13,X_15pct_downstroke,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2009,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X13,X_15pct_downstroke,unresolved,0,0,0,0,2022,18,2022,2009,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X13,X_15pct_downstroke,unusable search window,5,2,5,5,2022,18,2022,2009,13,0,0,13,0.3846153846153846,0.3846153846153846,0,0.0
+IITB,iitb_normal,normal,X,X13,X_15pct_downstroke,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2009,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X2,X_global_minimum,no qualifying feature or crossing,0,0,0,0,2022,18,2022,2017,0,5,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X2,X_global_minimum,other verified reason,0,0,0,0,2022,18,2022,2017,0,5,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X2,X_global_minimum,rejected boundary/order constraint,5,2,5,5,2022,18,2022,2017,0,5,0,5,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X2,X_global_minimum,unresolved,0,0,0,0,2022,18,2022,2017,0,5,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X2,X_global_minimum,unusable search window,0,0,0,0,2022,18,2022,2017,0,5,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X2,X_global_minimum,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2017,0,5,0,5,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,2022,18,2022,2022,0,0,0,0,,,0,
+IITB,iitb_normal,normal,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,2022,18,2022,2022,0,0,0,0,,,0,
+IITB,iitb_normal,normal,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2022,0,0,0,0,,,0,
+IITB,iitb_normal,normal,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,2022,18,2022,2022,0,0,0,0,,,0,
+IITB,iitb_normal,normal,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,2022,18,2022,2022,0,0,0,0,,,0,
+IITB,iitb_normal,normal,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2022,0,0,0,0,,,0,
+IITB,iitb_normal,normal,X,X4,X_d3_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,2022,18,2022,1399,0,623,0,623,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X4,X_d3_min_C_to_nextR,other verified reason,0,0,0,0,2022,18,2022,1399,0,623,0,623,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X4,X_d3_min_C_to_nextR,rejected boundary/order constraint,623,18,623,623,2022,18,2022,1399,0,623,0,623,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X4,X_d3_min_C_to_nextR,unresolved,0,0,0,0,2022,18,2022,1399,0,623,0,623,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X4,X_d3_min_C_to_nextR,unusable search window,0,0,0,0,2022,18,2022,1399,0,623,0,623,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X4,X_d3_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,1399,0,623,0,623,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X5,X_dzdt_45pct_downstroke,no qualifying feature or crossing,3,1,3,3,2022,18,2022,2014,8,0,0,8,0.375,0.375,0,0.0
+IITB,iitb_normal,normal,X,X5,X_dzdt_45pct_downstroke,other verified reason,0,0,0,0,2022,18,2022,2014,8,0,0,8,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X5,X_dzdt_45pct_downstroke,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2014,8,0,0,8,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X5,X_dzdt_45pct_downstroke,unresolved,0,0,0,0,2022,18,2022,2014,8,0,0,8,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X5,X_dzdt_45pct_downstroke,unusable search window,5,2,5,5,2022,18,2022,2014,8,0,0,8,0.625,0.625,0,0.0
+IITB,iitb_normal,normal,X,X5,X_dzdt_45pct_downstroke,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2014,8,0,0,8,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X6,X_dzdt_25pct_downstroke,no qualifying feature or crossing,6,3,6,6,2022,18,2022,2011,11,0,0,11,0.5454545454545454,0.5454545454545454,0,0.0
+IITB,iitb_normal,normal,X,X6,X_dzdt_25pct_downstroke,other verified reason,0,0,0,0,2022,18,2022,2011,11,0,0,11,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X6,X_dzdt_25pct_downstroke,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2011,11,0,0,11,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X6,X_dzdt_25pct_downstroke,unresolved,0,0,0,0,2022,18,2022,2011,11,0,0,11,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X6,X_dzdt_25pct_downstroke,unusable search window,5,2,5,5,2022,18,2022,2011,11,0,0,11,0.4545454545454545,0.4545454545454545,0,0.0
+IITB,iitb_normal,normal,X,X6,X_dzdt_25pct_downstroke,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2011,11,0,0,11,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,12,2,12,12,2022,18,2022,2010,12,0,0,12,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2010,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X8,X_second_derivative_after_minimum,no qualifying feature or crossing,43,14,43,43,2022,18,2022,1979,43,0,0,43,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X8,X_second_derivative_after_minimum,other verified reason,0,0,0,0,2022,18,2022,1979,43,0,0,43,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X8,X_second_derivative_after_minimum,rejected boundary/order constraint,0,0,0,0,2022,18,2022,1979,43,0,0,43,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X8,X_second_derivative_after_minimum,unresolved,0,0,0,0,2022,18,2022,1979,43,0,0,43,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X8,X_second_derivative_after_minimum,unusable search window,0,0,0,0,2022,18,2022,1979,43,0,0,43,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X8,X_second_derivative_after_minimum,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,1979,43,0,0,43,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X9,X_d2_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,2022,18,2022,2020,0,2,0,2,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X9,X_d2_min_C_to_nextR,other verified reason,0,0,0,0,2022,18,2022,2020,0,2,0,2,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X9,X_d2_min_C_to_nextR,rejected boundary/order constraint,2,2,2,2,2022,18,2022,2020,0,2,0,2,1.0,1.0,0,0.0
+IITB,iitb_normal,normal,X,X9,X_d2_min_C_to_nextR,unresolved,0,0,0,0,2022,18,2022,2020,0,2,0,2,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X9,X_d2_min_C_to_nextR,unusable search window,0,0,0,0,2022,18,2022,2020,0,2,0,2,0.0,0.0,0,0.0
+IITB,iitb_normal,normal,X,X9,X_d2_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,2022,18,2022,2020,0,2,0,2,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B1,B_last_local_minimum,no qualifying feature or crossing,579,18,579,579,1737,18,1723,1144,579,0,14,593,0.9763912310286678,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B1,B_last_local_minimum,other verified reason,0,0,0,0,1737,18,1723,1144,579,0,14,593,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B1,B_last_local_minimum,rejected boundary/order constraint,0,0,0,0,1737,18,1723,1144,579,0,14,593,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B1,B_last_local_minimum,unresolved,0,0,0,0,1737,18,1723,1144,579,0,14,593,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B1,B_last_local_minimum,unusable search window,0,0,0,0,1737,18,1723,1144,579,0,14,593,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B1,B_last_local_minimum,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1144,579,0,14,593,0.0236087689713322,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B10,B_15pct_upstroke,no qualifying feature or crossing,177,16,177,177,1737,18,1723,1538,177,8,14,199,0.8894472361809045,0.9567567567567568,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B10,B_15pct_upstroke,other verified reason,0,0,0,0,1737,18,1723,1538,177,8,14,199,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B10,B_15pct_upstroke,rejected boundary/order constraint,8,4,8,8,1737,18,1723,1538,177,8,14,199,0.0402010050251256,0.0432432432432432,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B10,B_15pct_upstroke,unresolved,0,0,0,0,1737,18,1723,1538,177,8,14,199,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B10,B_15pct_upstroke,unusable search window,0,0,0,0,1737,18,1723,1538,177,8,14,199,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B10,B_15pct_upstroke,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1538,177,8,14,199,0.0703517587939698,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,15,6,15,15,1737,18,1723,1701,22,0,14,36,0.4166666666666667,0.6818181818181818,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,1737,18,1723,1701,22,0,14,36,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,0,0,0,0,1737,18,1723,1701,22,0,14,36,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,1737,18,1723,1701,22,0,14,36,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unusable search window,7,3,7,7,1737,18,1723,1701,22,0,14,36,0.1944444444444444,0.3181818181818182,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1701,22,0,14,36,0.3888888888888889,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B3,B_d3_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,1737,18,1723,1621,22,80,14,116,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B3,B_d3_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,1737,18,1723,1621,22,80,14,116,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B3,B_d3_max_Cminus150_to_Cminus30,rejected boundary/order constraint,80,11,80,80,1737,18,1723,1621,22,80,14,116,0.6896551724137931,0.7843137254901961,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B3,B_d3_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,1737,18,1723,1621,22,80,14,116,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B3,B_d3_max_Cminus150_to_Cminus30,unusable search window,22,7,22,22,1737,18,1723,1621,22,80,14,116,0.1896551724137931,0.2156862745098039,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B3,B_d3_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1621,22,80,14,116,0.1206896551724138,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B4,B_dzdt_45pct_upstroke,no qualifying feature or crossing,38,9,38,38,1737,18,1723,1683,38,2,14,54,0.7037037037037037,0.95,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B4,B_dzdt_45pct_upstroke,other verified reason,0,0,0,0,1737,18,1723,1683,38,2,14,54,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B4,B_dzdt_45pct_upstroke,rejected boundary/order constraint,2,2,2,2,1737,18,1723,1683,38,2,14,54,0.037037037037037,0.05,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B4,B_dzdt_45pct_upstroke,unresolved,0,0,0,0,1737,18,1723,1683,38,2,14,54,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B4,B_dzdt_45pct_upstroke,unusable search window,0,0,0,0,1737,18,1723,1683,38,2,14,54,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B4,B_dzdt_45pct_upstroke,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1683,38,2,14,54,0.2592592592592592,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B5,B_dzdt_25pct_upstroke,no qualifying feature or crossing,85,14,85,85,1737,18,1723,1634,85,4,14,103,0.8252427184466019,0.9550561797752808,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B5,B_dzdt_25pct_upstroke,other verified reason,0,0,0,0,1737,18,1723,1634,85,4,14,103,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B5,B_dzdt_25pct_upstroke,rejected boundary/order constraint,4,3,4,4,1737,18,1723,1634,85,4,14,103,0.0388349514563106,0.0449438202247191,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B5,B_dzdt_25pct_upstroke,unresolved,0,0,0,0,1737,18,1723,1634,85,4,14,103,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B5,B_dzdt_25pct_upstroke,unusable search window,0,0,0,0,1737,18,1723,1634,85,4,14,103,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B5,B_dzdt_25pct_upstroke,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1634,85,4,14,103,0.1359223300970873,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B6,B_d2_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,1737,18,1723,1654,22,47,14,83,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B6,B_d2_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,1737,18,1723,1654,22,47,14,83,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B6,B_d2_max_Cminus150_to_Cminus30,rejected boundary/order constraint,47,11,47,47,1737,18,1723,1654,22,47,14,83,0.5662650602409639,0.6811594202898551,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B6,B_d2_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,1737,18,1723,1654,22,47,14,83,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B6,B_d2_max_Cminus150_to_Cminus30,unusable search window,22,7,22,22,1737,18,1723,1654,22,47,14,83,0.2650602409638554,0.3188405797101449,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B6,B_d2_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1654,22,47,14,83,0.1686746987951807,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,564,18,564,564,1737,18,1723,1133,571,19,14,604,0.933774834437086,0.9559322033898304,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,1737,18,1723,1133,571,19,14,604,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,19,4,19,19,1737,18,1723,1133,571,19,14,604,0.0314569536423841,0.0322033898305084,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,1737,18,1723,1133,571,19,14,604,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unusable search window,7,3,7,7,1737,18,1723,1133,571,19,14,604,0.0115894039735099,0.011864406779661,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1133,571,19,14,604,0.0231788079470198,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B8,B_55pct_RC,no qualifying feature or crossing,0,0,0,0,1737,18,1723,1721,0,2,14,16,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B8,B_55pct_RC,other verified reason,0,0,0,0,1737,18,1723,1721,0,2,14,16,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B8,B_55pct_RC,rejected boundary/order constraint,2,1,2,2,1737,18,1723,1721,0,2,14,16,0.125,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B8,B_55pct_RC,unresolved,0,0,0,0,1737,18,1723,1721,0,2,14,16,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B8,B_55pct_RC,unusable search window,0,0,0,0,1737,18,1723,1721,0,2,14,16,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B8,B_55pct_RC,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1721,0,2,14,16,0.875,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B9,B_adaptive_baseline_10pct_upstroke,no qualifying feature or crossing,0,0,0,0,1737,18,1723,1712,0,11,14,25,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B9,B_adaptive_baseline_10pct_upstroke,other verified reason,0,0,0,0,1737,18,1723,1712,0,11,14,25,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B9,B_adaptive_baseline_10pct_upstroke,rejected boundary/order constraint,11,6,11,11,1737,18,1723,1712,0,11,14,25,0.44,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B9,B_adaptive_baseline_10pct_upstroke,unresolved,0,0,0,0,1737,18,1723,1712,0,11,14,25,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B9,B_adaptive_baseline_10pct_upstroke,unusable search window,0,0,0,0,1737,18,1723,1712,0,11,14,25,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,B,B9,B_adaptive_baseline_10pct_upstroke,upstream dependency/ineligibility,14,5,14,0,1737,18,1723,1712,0,11,14,25,0.56,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X1,X_first_local_minimum,no qualifying feature or crossing,9,4,9,9,1737,18,1737,1728,9,0,0,9,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X1,X_first_local_minimum,other verified reason,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X1,X_first_local_minimum,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X1,X_first_local_minimum,unresolved,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X1,X_first_local_minimum,unusable search window,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X1,X_first_local_minimum,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X10,X_Weissler_HR,no qualifying feature or crossing,0,0,0,0,1737,18,1737,1718,16,3,0,19,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X10,X_Weissler_HR,other verified reason,0,0,0,0,1737,18,1737,1718,16,3,0,19,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X10,X_Weissler_HR,rejected boundary/order constraint,3,1,3,3,1737,18,1737,1718,16,3,0,19,0.1578947368421052,0.1578947368421052,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X10,X_Weissler_HR,unresolved,0,0,0,0,1737,18,1737,1718,16,3,0,19,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X10,X_Weissler_HR,unusable search window,0,0,0,0,1737,18,1737,1718,16,3,0,19,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X10,X_Weissler_HR,upstream dependency/ineligibility,16,5,16,16,1737,18,1737,1718,16,3,0,19,0.8421052631578947,0.8421052631578947,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X11,X_adaptive_half_descent_to_trough,no qualifying feature or crossing,0,0,0,0,1737,18,1737,1731,6,0,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X11,X_adaptive_half_descent_to_trough,other verified reason,0,0,0,0,1737,18,1737,1731,6,0,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X11,X_adaptive_half_descent_to_trough,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1731,6,0,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X11,X_adaptive_half_descent_to_trough,unresolved,0,0,0,0,1737,18,1737,1731,6,0,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X11,X_adaptive_half_descent_to_trough,unusable search window,6,4,6,6,1737,18,1737,1731,6,0,0,6,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X11,X_adaptive_half_descent_to_trough,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1731,6,0,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X12,X_rr_adaptive_global_minimum,no qualifying feature or crossing,0,0,0,0,1737,18,1737,1729,0,8,0,8,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X12,X_rr_adaptive_global_minimum,other verified reason,0,0,0,0,1737,18,1737,1729,0,8,0,8,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X12,X_rr_adaptive_global_minimum,rejected boundary/order constraint,8,4,8,8,1737,18,1737,1729,0,8,0,8,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X12,X_rr_adaptive_global_minimum,unresolved,0,0,0,0,1737,18,1737,1729,0,8,0,8,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X12,X_rr_adaptive_global_minimum,unusable search window,0,0,0,0,1737,18,1737,1729,0,8,0,8,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X12,X_rr_adaptive_global_minimum,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1729,0,8,0,8,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X13,X_15pct_downstroke,no qualifying feature or crossing,7,3,7,7,1737,18,1737,1724,13,0,0,13,0.5384615384615384,0.5384615384615384,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X13,X_15pct_downstroke,other verified reason,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X13,X_15pct_downstroke,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X13,X_15pct_downstroke,unresolved,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X13,X_15pct_downstroke,unusable search window,6,4,6,6,1737,18,1737,1724,13,0,0,13,0.4615384615384615,0.4615384615384615,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X13,X_15pct_downstroke,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X2,X_global_minimum,no qualifying feature or crossing,0,0,0,0,1737,18,1737,1731,0,6,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X2,X_global_minimum,other verified reason,0,0,0,0,1737,18,1737,1731,0,6,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X2,X_global_minimum,rejected boundary/order constraint,6,4,6,6,1737,18,1737,1731,0,6,0,6,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X2,X_global_minimum,unresolved,0,0,0,0,1737,18,1737,1731,0,6,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X2,X_global_minimum,unusable search window,0,0,0,0,1737,18,1737,1731,0,6,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X2,X_global_minimum,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1731,0,6,0,6,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,1,1,1,1,1737,18,1737,1734,3,0,0,3,0.3333333333333333,0.3333333333333333,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,1737,18,1737,1734,3,0,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1734,3,0,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,1737,18,1737,1734,3,0,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unusable search window,2,1,2,2,1737,18,1737,1734,3,0,0,3,0.6666666666666666,0.6666666666666666,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1734,3,0,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X4,X_d3_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,1737,18,1737,1035,0,702,0,702,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X4,X_d3_min_C_to_nextR,other verified reason,0,0,0,0,1737,18,1737,1035,0,702,0,702,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X4,X_d3_min_C_to_nextR,rejected boundary/order constraint,702,18,702,702,1737,18,1737,1035,0,702,0,702,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X4,X_d3_min_C_to_nextR,unresolved,0,0,0,0,1737,18,1737,1035,0,702,0,702,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X4,X_d3_min_C_to_nextR,unusable search window,0,0,0,0,1737,18,1737,1035,0,702,0,702,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X4,X_d3_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1035,0,702,0,702,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X5,X_dzdt_45pct_downstroke,no qualifying feature or crossing,6,3,6,6,1737,18,1737,1725,12,0,0,12,0.5,0.5,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X5,X_dzdt_45pct_downstroke,other verified reason,0,0,0,0,1737,18,1737,1725,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X5,X_dzdt_45pct_downstroke,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1725,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X5,X_dzdt_45pct_downstroke,unresolved,0,0,0,0,1737,18,1737,1725,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X5,X_dzdt_45pct_downstroke,unusable search window,6,4,6,6,1737,18,1737,1725,12,0,0,12,0.5,0.5,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X5,X_dzdt_45pct_downstroke,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1725,12,0,0,12,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X6,X_dzdt_25pct_downstroke,no qualifying feature or crossing,7,3,7,7,1737,18,1737,1724,13,0,0,13,0.5384615384615384,0.5384615384615384,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X6,X_dzdt_25pct_downstroke,other verified reason,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X6,X_dzdt_25pct_downstroke,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X6,X_dzdt_25pct_downstroke,unresolved,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X6,X_dzdt_25pct_downstroke,unusable search window,6,4,6,6,1737,18,1737,1724,13,0,0,13,0.4615384615384615,0.4615384615384615,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X6,X_dzdt_25pct_downstroke,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1724,13,0,0,13,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,7,3,7,7,1737,18,1737,1728,9,0,0,9,0.7777777777777778,0.7777777777777778,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unusable search window,2,1,2,2,1737,18,1737,1728,9,0,0,9,0.2222222222222222,0.2222222222222222,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1728,9,0,0,9,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X8,X_second_derivative_after_minimum,no qualifying feature or crossing,44,14,44,44,1737,18,1737,1693,44,0,0,44,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X8,X_second_derivative_after_minimum,other verified reason,0,0,0,0,1737,18,1737,1693,44,0,0,44,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X8,X_second_derivative_after_minimum,rejected boundary/order constraint,0,0,0,0,1737,18,1737,1693,44,0,0,44,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X8,X_second_derivative_after_minimum,unresolved,0,0,0,0,1737,18,1737,1693,44,0,0,44,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X8,X_second_derivative_after_minimum,unusable search window,0,0,0,0,1737,18,1737,1693,44,0,0,44,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X8,X_second_derivative_after_minimum,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1693,44,0,0,44,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X9,X_d2_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,1737,18,1737,1734,0,3,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X9,X_d2_min_C_to_nextR,other verified reason,0,0,0,0,1737,18,1737,1734,0,3,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X9,X_d2_min_C_to_nextR,rejected boundary/order constraint,3,3,3,3,1737,18,1737,1734,0,3,0,3,1.0,1.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X9,X_d2_min_C_to_nextR,unresolved,0,0,0,0,1737,18,1737,1734,0,3,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X9,X_d2_min_C_to_nextR,unusable search window,0,0,0,0,1737,18,1737,1734,0,3,0,3,0.0,0.0,0,0.0
+IITB,iitb_post_exercise,post_exercise,X,X9,X_d2_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,1737,18,1737,1734,0,3,0,3,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B1,B_last_local_minimum,no qualifying feature or crossing,59,11,59,59,8403,24,8402,8343,59,0,1,60,0.9833333333333332,1.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B1,B_last_local_minimum,other verified reason,0,0,0,0,8403,24,8402,8343,59,0,1,60,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B1,B_last_local_minimum,rejected boundary/order constraint,0,0,0,0,8403,24,8402,8343,59,0,1,60,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B1,B_last_local_minimum,unresolved,0,0,0,0,8403,24,8402,8343,59,0,1,60,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B1,B_last_local_minimum,unusable search window,0,0,0,0,8403,24,8402,8343,59,0,1,60,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B1,B_last_local_minimum,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8343,59,0,1,60,0.0166666666666666,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B10,B_15pct_upstroke,no qualifying feature or crossing,7,6,7,7,8403,24,8402,8394,7,1,1,9,0.7777777777777778,0.875,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B10,B_15pct_upstroke,other verified reason,0,0,0,0,8403,24,8402,8394,7,1,1,9,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B10,B_15pct_upstroke,rejected boundary/order constraint,1,1,1,1,8403,24,8402,8394,7,1,1,9,0.1111111111111111,0.125,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B10,B_15pct_upstroke,unresolved,0,0,0,0,8403,24,8402,8394,7,1,1,9,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B10,B_15pct_upstroke,unusable search window,0,0,0,0,8403,24,8402,8394,7,1,1,9,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B10,B_15pct_upstroke,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8394,7,1,1,9,0.1111111111111111,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,1,1,1,1,8403,24,8402,8399,3,0,1,4,0.25,0.3333333333333333,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,8403,24,8402,8399,3,0,1,4,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,0,0,0,0,8403,24,8402,8399,3,0,1,4,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,8403,24,8402,8399,3,0,1,4,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unusable search window,2,1,2,2,8403,24,8402,8399,3,0,1,4,0.5,0.6666666666666666,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8399,3,0,1,4,0.25,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B3,B_d3_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,8403,24,8402,8362,3,37,1,41,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B3,B_d3_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,8403,24,8402,8362,3,37,1,41,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B3,B_d3_max_Cminus150_to_Cminus30,rejected boundary/order constraint,37,10,37,37,8403,24,8402,8362,3,37,1,41,0.902439024390244,0.925,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B3,B_d3_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,8403,24,8402,8362,3,37,1,41,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B3,B_d3_max_Cminus150_to_Cminus30,unusable search window,3,2,3,3,8403,24,8402,8362,3,37,1,41,0.073170731707317,0.075,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B3,B_d3_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8362,3,37,1,41,0.024390243902439,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B4,B_dzdt_45pct_upstroke,no qualifying feature or crossing,2,1,2,2,8403,24,8402,8400,2,0,1,3,0.6666666666666666,1.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B4,B_dzdt_45pct_upstroke,other verified reason,0,0,0,0,8403,24,8402,8400,2,0,1,3,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B4,B_dzdt_45pct_upstroke,rejected boundary/order constraint,0,0,0,0,8403,24,8402,8400,2,0,1,3,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B4,B_dzdt_45pct_upstroke,unresolved,0,0,0,0,8403,24,8402,8400,2,0,1,3,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B4,B_dzdt_45pct_upstroke,unusable search window,0,0,0,0,8403,24,8402,8400,2,0,1,3,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B4,B_dzdt_45pct_upstroke,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8400,2,0,1,3,0.3333333333333333,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B5,B_dzdt_25pct_upstroke,no qualifying feature or crossing,3,2,3,3,8403,24,8402,8398,3,1,1,5,0.6,0.75,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B5,B_dzdt_25pct_upstroke,other verified reason,0,0,0,0,8403,24,8402,8398,3,1,1,5,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B5,B_dzdt_25pct_upstroke,rejected boundary/order constraint,1,1,1,1,8403,24,8402,8398,3,1,1,5,0.2,0.25,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B5,B_dzdt_25pct_upstroke,unresolved,0,0,0,0,8403,24,8402,8398,3,1,1,5,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B5,B_dzdt_25pct_upstroke,unusable search window,0,0,0,0,8403,24,8402,8398,3,1,1,5,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B5,B_dzdt_25pct_upstroke,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8398,3,1,1,5,0.2,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B6,B_d2_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,8403,24,8402,8380,3,19,1,23,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B6,B_d2_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,8403,24,8402,8380,3,19,1,23,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B6,B_d2_max_Cminus150_to_Cminus30,rejected boundary/order constraint,19,8,19,19,8403,24,8402,8380,3,19,1,23,0.8260869565217391,0.8636363636363636,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B6,B_d2_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,8403,24,8402,8380,3,19,1,23,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B6,B_d2_max_Cminus150_to_Cminus30,unusable search window,3,2,3,3,8403,24,8402,8380,3,19,1,23,0.1304347826086956,0.1363636363636363,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B6,B_d2_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8380,3,19,1,23,0.0434782608695652,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,52,9,52,52,8403,24,8402,8336,54,12,1,67,0.7761194029850746,0.7878787878787878,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,8403,24,8402,8336,54,12,1,67,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,12,3,12,12,8403,24,8402,8336,54,12,1,67,0.1791044776119403,0.1818181818181818,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,8403,24,8402,8336,54,12,1,67,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unusable search window,2,1,2,2,8403,24,8402,8336,54,12,1,67,0.0298507462686567,0.0303030303030303,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8336,54,12,1,67,0.0149253731343283,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B8,B_55pct_RC,no qualifying feature or crossing,0,0,0,0,8403,24,8402,8402,0,0,1,1,0.0,,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B8,B_55pct_RC,other verified reason,0,0,0,0,8403,24,8402,8402,0,0,1,1,0.0,,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B8,B_55pct_RC,rejected boundary/order constraint,0,0,0,0,8403,24,8402,8402,0,0,1,1,0.0,,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B8,B_55pct_RC,unresolved,0,0,0,0,8403,24,8402,8402,0,0,1,1,0.0,,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B8,B_55pct_RC,unusable search window,0,0,0,0,8403,24,8402,8402,0,0,1,1,0.0,,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B8,B_55pct_RC,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8402,0,0,1,1,1.0,,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B9,B_adaptive_baseline_10pct_upstroke,no qualifying feature or crossing,0,0,0,0,8403,24,8402,8397,0,5,1,6,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B9,B_adaptive_baseline_10pct_upstroke,other verified reason,0,0,0,0,8403,24,8402,8397,0,5,1,6,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B9,B_adaptive_baseline_10pct_upstroke,rejected boundary/order constraint,5,4,5,5,8403,24,8402,8397,0,5,1,6,0.8333333333333334,1.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B9,B_adaptive_baseline_10pct_upstroke,unresolved,0,0,0,0,8403,24,8402,8397,0,5,1,6,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B9,B_adaptive_baseline_10pct_upstroke,unusable search window,0,0,0,0,8403,24,8402,8397,0,5,1,6,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,B,B9,B_adaptive_baseline_10pct_upstroke,upstream dependency/ineligibility,1,1,1,0,8403,24,8402,8397,0,5,1,6,0.1666666666666666,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X1,X_first_local_minimum,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X1,X_first_local_minimum,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X1,X_first_local_minimum,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X1,X_first_local_minimum,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X1,X_first_local_minimum,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X1,X_first_local_minimum,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X10,X_Weissler_HR,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8402,1,0,0,1,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X10,X_Weissler_HR,other verified reason,0,0,0,0,8403,24,8403,8402,1,0,0,1,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X10,X_Weissler_HR,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8402,1,0,0,1,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X10,X_Weissler_HR,unresolved,0,0,0,0,8403,24,8403,8402,1,0,0,1,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X10,X_Weissler_HR,unusable search window,0,0,0,0,8403,24,8403,8402,1,0,0,1,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X10,X_Weissler_HR,upstream dependency/ineligibility,1,1,1,1,8403,24,8403,8402,1,0,0,1,1.0,1.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X11,X_adaptive_half_descent_to_trough,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X11,X_adaptive_half_descent_to_trough,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X11,X_adaptive_half_descent_to_trough,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X11,X_adaptive_half_descent_to_trough,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X11,X_adaptive_half_descent_to_trough,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X11,X_adaptive_half_descent_to_trough,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X12,X_rr_adaptive_global_minimum,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X12,X_rr_adaptive_global_minimum,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X12,X_rr_adaptive_global_minimum,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X12,X_rr_adaptive_global_minimum,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X12,X_rr_adaptive_global_minimum,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X12,X_rr_adaptive_global_minimum,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X13,X_15pct_downstroke,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X13,X_15pct_downstroke,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X13,X_15pct_downstroke,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X13,X_15pct_downstroke,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X13,X_15pct_downstroke,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X13,X_15pct_downstroke,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X2,X_global_minimum,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X2,X_global_minimum,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X2,X_global_minimum,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X2,X_global_minimum,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X2,X_global_minimum,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X2,X_global_minimum,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X4,X_d3_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,8403,24,8403,4476,0,3927,0,3927,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X4,X_d3_min_C_to_nextR,other verified reason,0,0,0,0,8403,24,8403,4476,0,3927,0,3927,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X4,X_d3_min_C_to_nextR,rejected boundary/order constraint,3927,24,3927,3927,8403,24,8403,4476,0,3927,0,3927,1.0,1.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X4,X_d3_min_C_to_nextR,unresolved,0,0,0,0,8403,24,8403,4476,0,3927,0,3927,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X4,X_d3_min_C_to_nextR,unusable search window,0,0,0,0,8403,24,8403,4476,0,3927,0,3927,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X4,X_d3_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,4476,0,3927,0,3927,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X5,X_dzdt_45pct_downstroke,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X5,X_dzdt_45pct_downstroke,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X5,X_dzdt_45pct_downstroke,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X5,X_dzdt_45pct_downstroke,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X5,X_dzdt_45pct_downstroke,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X5,X_dzdt_45pct_downstroke,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X6,X_dzdt_25pct_downstroke,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X6,X_dzdt_25pct_downstroke,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X6,X_dzdt_25pct_downstroke,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X6,X_dzdt_25pct_downstroke,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X6,X_dzdt_25pct_downstroke,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X6,X_dzdt_25pct_downstroke,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X8,X_second_derivative_after_minimum,no qualifying feature or crossing,135,16,135,135,8403,24,8403,8268,135,0,0,135,1.0,1.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X8,X_second_derivative_after_minimum,other verified reason,0,0,0,0,8403,24,8403,8268,135,0,0,135,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X8,X_second_derivative_after_minimum,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8268,135,0,0,135,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X8,X_second_derivative_after_minimum,unresolved,0,0,0,0,8403,24,8403,8268,135,0,0,135,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X8,X_second_derivative_after_minimum,unusable search window,0,0,0,0,8403,24,8403,8268,135,0,0,135,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X8,X_second_derivative_after_minimum,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8268,135,0,0,135,0.0,0.0,0,0.0
+ReBeat,rebeat_baseline,baseline,X,X9,X_d2_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X9,X_d2_min_C_to_nextR,other verified reason,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X9,X_d2_min_C_to_nextR,rejected boundary/order constraint,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X9,X_d2_min_C_to_nextR,unresolved,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X9,X_d2_min_C_to_nextR,unusable search window,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_baseline,baseline,X,X9,X_d2_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,8403,24,8403,8403,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,B,B1,B_last_local_minimum,no qualifying feature or crossing,122,13,122,122,8492,24,8490,8368,122,0,2,124,0.9838709677419356,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B1,B_last_local_minimum,other verified reason,0,0,0,0,8492,24,8490,8368,122,0,2,124,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B1,B_last_local_minimum,rejected boundary/order constraint,0,0,0,0,8492,24,8490,8368,122,0,2,124,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B1,B_last_local_minimum,unresolved,0,0,0,0,8492,24,8490,8368,122,0,2,124,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B1,B_last_local_minimum,unusable search window,0,0,0,0,8492,24,8490,8368,122,0,2,124,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B1,B_last_local_minimum,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8368,122,0,2,124,0.0161290322580645,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B10,B_15pct_upstroke,no qualifying feature or crossing,16,7,16,16,8492,24,8490,8474,16,0,2,18,0.8888888888888888,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B10,B_15pct_upstroke,other verified reason,0,0,0,0,8492,24,8490,8474,16,0,2,18,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B10,B_15pct_upstroke,rejected boundary/order constraint,0,0,0,0,8492,24,8490,8474,16,0,2,18,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B10,B_15pct_upstroke,unresolved,0,0,0,0,8492,24,8490,8474,16,0,2,18,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B10,B_15pct_upstroke,unusable search window,0,0,0,0,8492,24,8490,8474,16,0,2,18,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B10,B_15pct_upstroke,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8474,16,0,2,18,0.1111111111111111,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,4,4,4,4,8492,24,8490,8483,7,0,2,9,0.4444444444444444,0.5714285714285714,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,8492,24,8490,8483,7,0,2,9,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,0,0,0,0,8492,24,8490,8483,7,0,2,9,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,8492,24,8490,8483,7,0,2,9,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,unusable search window,3,2,3,3,8492,24,8490,8483,7,0,2,9,0.3333333333333333,0.4285714285714285,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B2,B_d3_last_downward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8483,7,0,2,9,0.2222222222222222,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B3,B_d3_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,8492,24,8490,8439,7,44,2,53,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B3,B_d3_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,8492,24,8490,8439,7,44,2,53,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B3,B_d3_max_Cminus150_to_Cminus30,rejected boundary/order constraint,44,7,44,44,8492,24,8490,8439,7,44,2,53,0.8301886792452831,0.8627450980392157,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B3,B_d3_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,8492,24,8490,8439,7,44,2,53,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B3,B_d3_max_Cminus150_to_Cminus30,unusable search window,7,5,7,7,8492,24,8490,8439,7,44,2,53,0.1320754716981132,0.1372549019607843,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B3,B_d3_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8439,7,44,2,53,0.0377358490566037,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B4,B_dzdt_45pct_upstroke,no qualifying feature or crossing,8,4,8,8,8492,24,8490,8482,8,0,2,10,0.8,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B4,B_dzdt_45pct_upstroke,other verified reason,0,0,0,0,8492,24,8490,8482,8,0,2,10,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B4,B_dzdt_45pct_upstroke,rejected boundary/order constraint,0,0,0,0,8492,24,8490,8482,8,0,2,10,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B4,B_dzdt_45pct_upstroke,unresolved,0,0,0,0,8492,24,8490,8482,8,0,2,10,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B4,B_dzdt_45pct_upstroke,unusable search window,0,0,0,0,8492,24,8490,8482,8,0,2,10,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B4,B_dzdt_45pct_upstroke,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8482,8,0,2,10,0.2,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B5,B_dzdt_25pct_upstroke,no qualifying feature or crossing,13,7,13,13,8492,24,8490,8477,13,0,2,15,0.8666666666666667,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B5,B_dzdt_25pct_upstroke,other verified reason,0,0,0,0,8492,24,8490,8477,13,0,2,15,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B5,B_dzdt_25pct_upstroke,rejected boundary/order constraint,0,0,0,0,8492,24,8490,8477,13,0,2,15,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B5,B_dzdt_25pct_upstroke,unresolved,0,0,0,0,8492,24,8490,8477,13,0,2,15,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B5,B_dzdt_25pct_upstroke,unusable search window,0,0,0,0,8492,24,8490,8477,13,0,2,15,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B5,B_dzdt_25pct_upstroke,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8477,13,0,2,15,0.1333333333333333,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B6,B_d2_max_Cminus150_to_Cminus30,no qualifying feature or crossing,0,0,0,0,8492,24,8490,8446,7,37,2,46,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B6,B_d2_max_Cminus150_to_Cminus30,other verified reason,0,0,0,0,8492,24,8490,8446,7,37,2,46,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B6,B_d2_max_Cminus150_to_Cminus30,rejected boundary/order constraint,37,9,37,37,8492,24,8490,8446,7,37,2,46,0.8043478260869565,0.8409090909090909,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B6,B_d2_max_Cminus150_to_Cminus30,unresolved,0,0,0,0,8492,24,8490,8446,7,37,2,46,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B6,B_d2_max_Cminus150_to_Cminus30,unusable search window,7,5,7,7,8492,24,8490,8446,7,37,2,46,0.1521739130434782,0.1590909090909091,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B6,B_d2_max_Cminus150_to_Cminus30,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8446,7,37,2,46,0.0434782608695652,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,no qualifying feature or crossing,124,13,124,124,8492,24,8490,8347,127,16,2,145,0.8551724137931035,0.8671328671328671,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,other verified reason,0,0,0,0,8492,24,8490,8347,127,16,2,145,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,rejected boundary/order constraint,16,5,16,16,8492,24,8490,8347,127,16,2,145,0.1103448275862069,0.1118881118881118,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unresolved,0,0,0,0,8492,24,8490,8347,127,16,2,145,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,unusable search window,3,2,3,3,8492,24,8490,8347,127,16,2,145,0.0206896551724137,0.0209790209790209,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B7,B_d2_last_upward_zero_Cminus180_to_Cminus10,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8347,127,16,2,145,0.0137931034482758,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B8,B_55pct_RC,no qualifying feature or crossing,0,0,0,0,8492,24,8490,8489,0,1,2,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B8,B_55pct_RC,other verified reason,0,0,0,0,8492,24,8490,8489,0,1,2,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B8,B_55pct_RC,rejected boundary/order constraint,1,1,1,1,8492,24,8490,8489,0,1,2,3,0.3333333333333333,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B8,B_55pct_RC,unresolved,0,0,0,0,8492,24,8490,8489,0,1,2,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B8,B_55pct_RC,unusable search window,0,0,0,0,8492,24,8490,8489,0,1,2,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B8,B_55pct_RC,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8489,0,1,2,3,0.6666666666666666,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B9,B_adaptive_baseline_10pct_upstroke,no qualifying feature or crossing,0,0,0,0,8492,24,8490,8484,0,6,2,8,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B9,B_adaptive_baseline_10pct_upstroke,other verified reason,0,0,0,0,8492,24,8490,8484,0,6,2,8,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B9,B_adaptive_baseline_10pct_upstroke,rejected boundary/order constraint,6,3,6,6,8492,24,8490,8484,0,6,2,8,0.75,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B9,B_adaptive_baseline_10pct_upstroke,unresolved,0,0,0,0,8492,24,8490,8484,0,6,2,8,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B9,B_adaptive_baseline_10pct_upstroke,unusable search window,0,0,0,0,8492,24,8490,8484,0,6,2,8,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,B,B9,B_adaptive_baseline_10pct_upstroke,upstream dependency/ineligibility,2,2,2,0,8492,24,8490,8484,0,6,2,8,0.25,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X1,X_first_local_minimum,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X1,X_first_local_minimum,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X1,X_first_local_minimum,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X1,X_first_local_minimum,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X1,X_first_local_minimum,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X1,X_first_local_minimum,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X10,X_Weissler_HR,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8489,3,0,0,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X10,X_Weissler_HR,other verified reason,0,0,0,0,8492,24,8492,8489,3,0,0,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X10,X_Weissler_HR,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8489,3,0,0,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X10,X_Weissler_HR,unresolved,0,0,0,0,8492,24,8492,8489,3,0,0,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X10,X_Weissler_HR,unusable search window,0,0,0,0,8492,24,8492,8489,3,0,0,3,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X10,X_Weissler_HR,upstream dependency/ineligibility,3,3,3,3,8492,24,8492,8489,3,0,0,3,1.0,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X11,X_adaptive_half_descent_to_trough,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X11,X_adaptive_half_descent_to_trough,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X11,X_adaptive_half_descent_to_trough,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X11,X_adaptive_half_descent_to_trough,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X11,X_adaptive_half_descent_to_trough,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X11,X_adaptive_half_descent_to_trough,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X12,X_rr_adaptive_global_minimum,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X12,X_rr_adaptive_global_minimum,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X12,X_rr_adaptive_global_minimum,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X12,X_rr_adaptive_global_minimum,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X12,X_rr_adaptive_global_minimum,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X12,X_rr_adaptive_global_minimum,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X13,X_15pct_downstroke,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X13,X_15pct_downstroke,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X13,X_15pct_downstroke,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X13,X_15pct_downstroke,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X13,X_15pct_downstroke,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X13,X_15pct_downstroke,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X2,X_global_minimum,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X2,X_global_minimum,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X2,X_global_minimum,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X2,X_global_minimum,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X2,X_global_minimum,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X2,X_global_minimum,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X3,X_d3_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X4,X_d3_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,8492,24,8492,4664,0,3828,0,3828,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X4,X_d3_min_C_to_nextR,other verified reason,0,0,0,0,8492,24,8492,4664,0,3828,0,3828,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X4,X_d3_min_C_to_nextR,rejected boundary/order constraint,3828,24,3828,3828,8492,24,8492,4664,0,3828,0,3828,1.0,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X4,X_d3_min_C_to_nextR,unresolved,0,0,0,0,8492,24,8492,4664,0,3828,0,3828,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X4,X_d3_min_C_to_nextR,unusable search window,0,0,0,0,8492,24,8492,4664,0,3828,0,3828,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X4,X_d3_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,4664,0,3828,0,3828,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X5,X_dzdt_45pct_downstroke,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X5,X_dzdt_45pct_downstroke,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X5,X_dzdt_45pct_downstroke,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X5,X_dzdt_45pct_downstroke,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X5,X_dzdt_45pct_downstroke,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X5,X_dzdt_45pct_downstroke,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X6,X_dzdt_25pct_downstroke,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X6,X_dzdt_25pct_downstroke,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X6,X_dzdt_25pct_downstroke,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X6,X_dzdt_25pct_downstroke,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X6,X_dzdt_25pct_downstroke,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X6,X_dzdt_25pct_downstroke,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X7,X_d2_first_upward_zero_Cplus30_to_nextR,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X8,X_second_derivative_after_minimum,no qualifying feature or crossing,252,20,252,252,8492,24,8492,8240,252,0,0,252,1.0,1.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X8,X_second_derivative_after_minimum,other verified reason,0,0,0,0,8492,24,8492,8240,252,0,0,252,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X8,X_second_derivative_after_minimum,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8240,252,0,0,252,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X8,X_second_derivative_after_minimum,unresolved,0,0,0,0,8492,24,8492,8240,252,0,0,252,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X8,X_second_derivative_after_minimum,unusable search window,0,0,0,0,8492,24,8492,8240,252,0,0,252,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X8,X_second_derivative_after_minimum,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8240,252,0,0,252,0.0,0.0,0,0.0
+ReBeat,rebeat_cognitive,cognitive_workload,X,X9,X_d2_min_C_to_nextR,no qualifying feature or crossing,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X9,X_d2_min_C_to_nextR,other verified reason,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X9,X_d2_min_C_to_nextR,rejected boundary/order constraint,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X9,X_d2_min_C_to_nextR,unresolved,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X9,X_d2_min_C_to_nextR,unusable search window,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,
+ReBeat,rebeat_cognitive,cognitive_workload,X,X9,X_d2_min_C_to_nextR,upstream dependency/ineligibility,0,0,0,0,8492,24,8492,8492,0,0,0,0,,,0,

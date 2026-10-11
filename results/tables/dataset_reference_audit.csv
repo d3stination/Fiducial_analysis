@@ -1,0 +1,11 @@
+dataset,cohort,condition,candidate_type,participant_n,recording_n,total_beat_n,eligible_beat_n,upstream_ineligible_beat_n,valid_detection_events,missed_detection_events,invalid_detection_events,reference_type,reference_eligible_or_matched_beat_n,strict_common_reference_beat_n,paired_participant_n,sampling_frequency_hz_min,sampling_frequency_hz_max,signal_units,reference_status
+HeartCycle,healthy,overall,B,17,212,1706,1705,1,16576,411,63,ECHO AVO,1198,986,0,196.5963342,204.3560209,source impedance: unverified device units; derived dZ/dt: device units/s,validated matched subset
+HeartCycle,healthy,overall,X,17,212,1706,1706,0,21319,25,834,ECHO AVC,691,371,0,196.5963342,204.3560209,source impedance: unverified device units; derived dZ/dt: device units/s,validated matched subset
+IITB,healthy,normal,B,18,18,2022,1998,24,18017,1710,253,No independently interpretable B/X reference,0,0,18,500.0,500.0,unverified device units,not available
+IITB,healthy,post_exercise,B,18,18,1737,1723,14,15541,1516,173,No independently interpretable B/X reference,0,0,18,500.0,500.0,unverified device units,not available
+IITB,healthy,normal,X,18,18,2022,2022,0,25516,129,641,No independently interpretable B/X reference,0,0,18,500.0,500.0,unverified device units,not available
+IITB,healthy,post_exercise,X,18,18,1737,1737,0,21734,125,722,No independently interpretable B/X reference,0,0,18,500.0,500.0,unverified device units,not available
+ReBeat,healthy,baseline,B,24,24,8403,8402,1,83811,134,75,Expert ICG B annotation,985,967,24,250.0,250.0,unverified device units,validated matched subset
+ReBeat,healthy,cognitive_workload,B,24,24,8492,8490,2,84489,307,104,Expert ICG B annotation,857,838,24,250.0,250.0,unverified device units,validated matched subset
+ReBeat,healthy,baseline,X,24,24,8403,8403,0,105176,136,3927,Expert ICG X annotation,985,511,24,250.0,250.0,unverified device units,validated matched subset
+ReBeat,healthy,cognitive_workload,X,24,24,8492,8492,0,106313,255,3828,Expert ICG X annotation,857,433,24,250.0,250.0,unverified device units,validated matched subset

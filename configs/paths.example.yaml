@@ -1,0 +1,9 @@
+# Copy this file to configs/paths.local.yaml and edit only the local paths.
+# paths.local.yaml is ignored by Git.
+data_root: ${P1_DATA_ROOT}
+heartcycle_raw: ${P1_DATA_ROOT}/Heart Cycle
+iitb_normal_raw: ${P1_DATA_ROOT}/IITB ICG/Normal Data
+iitb_post_exercise_raw: ${P1_DATA_ROOT}/IITB ICG/Excerise
+rebeat_baseline_raw: ${P1_DATA_ROOT}/ReBeatICG/Raw/Baseline
+rebeat_cognitive_raw: ${P1_DATA_ROOT}/ReBeatICG/Raw/Cognetive Workload
+rebeat_annotations: ${P1_DATA_ROOT}/ReBeatICG/Annotations

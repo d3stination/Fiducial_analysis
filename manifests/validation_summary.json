@@ -1,0 +1,143 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "dataset algorithm strata",
+      "passed": true,
+      "observed": "115",
+      "expected": "115"
+    },
+    {
+      "check": "dataset labels",
+      "passed": true,
+      "observed": "['HeartCycle', 'IITB', 'ReBeat']",
+      "expected": "HeartCycle, IITB, ReBeat"
+    },
+    {
+      "check": "all B methods",
+      "passed": true,
+      "observed": "10",
+      "expected": "10"
+    },
+    {
+      "check": "all X methods",
+      "passed": true,
+      "observed": "13",
+      "expected": "13"
+    },
+    {
+      "check": "status denominators reconcile",
+      "passed": true,
+      "observed": "0",
+      "expected": "0"
+    },
+    {
+      "check": "dataset summary unique",
+      "passed": true,
+      "observed": "0",
+      "expected": "0"
+    },
+    {
+      "check": "six-feature morphology tests",
+      "passed": true,
+      "observed": "1794",
+      "expected": "1794"
+    },
+    {
+      "check": "six morphology features",
+      "passed": true,
+      "observed": "6",
+      "expected": "6"
+    },
+    {
+      "check": "condition morphology tests",
+      "passed": true,
+      "observed": "672",
+      "expected": "672"
+    },
+    {
+      "check": "condition morphology supported count",
+      "passed": true,
+      "observed": "14",
+      "expected": "14"
+    },
+    {
+      "check": "IITB X3 row unique",
+      "passed": true,
+      "observed": "1",
+      "expected": "1"
+    },
+    {
+      "check": "IITB X3 rho",
+      "passed": true,
+      "observed": "0.3973597071195132",
+      "expected": "0.3973597071195132"
+    },
+    {
+      "check": "IITB X3 exact permutation p",
+      "passed": true,
+      "observed": "0.1111111111111111",
+      "expected": "0.1111111111111111"
+    },
+    {
+      "check": "IITB X3 q",
+      "passed": true,
+      "observed": "0.9604357211337692",
+      "expected": "0.9604357211337692"
+    },
+    {
+      "check": "IITB X3 unsupported",
+      "passed": true,
+      "observed": "False",
+      "expected": "False"
+    },
+    {
+      "check": "IITB X3 bootstrap caution",
+      "passed": true,
+      "observed": "conditional on non-degenerate resamples; 17 of 18 failure changes were zero; the positive interval is not independent support",
+      "expected": "conditional non-degenerate-resample limitation"
+    },
+    {
+      "check": "failure reason strata",
+      "passed": true,
+      "observed": "115",
+      "expected": "115"
+    },
+    {
+      "check": "failure reason reconciliation",
+      "passed": true,
+      "observed": "checked",
+      "expected": "all reason totals equal failed or ineligible totals"
+    },
+    {
+      "check": "accepted figure panels",
+      "passed": true,
+      "observed": "66/66",
+      "expected": "66/66"
+    },
+    {
+      "check": "frozen detector hashes",
+      "passed": true,
+      "observed": "3/3",
+      "expected": "3/3"
+    },
+    {
+      "check": "no raw recordings",
+      "passed": true,
+      "observed": "[]",
+      "expected": "none"
+    },
+    {
+      "check": "no private absolute paths",
+      "passed": true,
+      "observed": "[]",
+      "expected": "none"
+    },
+    {
+      "check": "final Word report present",
+      "passed": true,
+      "observed": "True",
+      "expected": "True"
+    }
+  ]
+}

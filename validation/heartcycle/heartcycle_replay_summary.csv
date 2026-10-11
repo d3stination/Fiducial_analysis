@@ -1,0 +1,7 @@
+stage,new_rows,canonical_rows,index_match,exact_value_mismatch_n,numeric_value_mismatch_n,passed
+phase2_r_c,1706,1706,True,0,0,True
+phase3_segmentation,1706,1706,True,0,0,True
+phase4_bx,39238,39238,True,0,0,True
+echo_reference_alignment,1706,1706,True,0,0,True
+heartcycle_reference_metrics,23,23,True,0,0,True
+frozen_source_hashes,3,3,True,0,0,True

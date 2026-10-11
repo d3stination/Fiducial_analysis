@@ -1,0 +1,31 @@
+{
+  "algorithm_display_names": {
+    "B_last_local_minimum": "B1", "B_d3_last_downward_zero_Cminus180_to_Cminus10": "B2", "B_d3_max_Cminus150_to_Cminus30": "B3", "B_dzdt_45pct_upstroke": "B4", "B_dzdt_25pct_upstroke": "B5", "B_d2_max_Cminus150_to_Cminus30": "B6", "B_d2_last_upward_zero_Cminus180_to_Cminus10": "B7", "B_55pct_RC": "B8", "B_adaptive_baseline_10pct_upstroke": "B9", "B_15pct_upstroke": "B10",
+    "X_first_local_minimum": "X1", "X_global_minimum": "X2", "X_d3_first_upward_zero_Cplus30_to_nextR": "X3", "X_d3_min_C_to_nextR": "X4", "X_dzdt_45pct_downstroke": "X5", "X_dzdt_25pct_downstroke": "X6", "X_d2_first_upward_zero_Cplus30_to_nextR": "X7", "X_second_derivative_after_minimum": "X8", "X_d2_min_C_to_nextR": "X9", "X_Weissler_HR": "X10", "X_adaptive_half_descent_to_trough": "X11", "X_rr_adaptive_global_minimum": "X12", "X_15pct_downstroke": "X13"
+  },
+  "algorithm_colours": {
+    "B_last_local_minimum": "#1F4E79", "B_d3_last_downward_zero_Cminus180_to_Cminus10": "#2F75B5", "B_d3_max_Cminus150_to_Cminus30": "#5B9BD5", "B_dzdt_45pct_upstroke": "#2A6F97", "B_dzdt_25pct_upstroke": "#468FAF", "B_d2_max_Cminus150_to_Cminus30": "#61A5C2", "B_d2_last_upward_zero_Cminus180_to_Cminus10": "#89A9B8", "B_55pct_RC": "#577590", "B_adaptive_baseline_10pct_upstroke": "#4D6A6D", "B_15pct_upstroke": "#6B7C85",
+    "X_first_local_minimum": "#7A4E48", "X_global_minimum": "#9C6644", "X_d3_first_upward_zero_Cplus30_to_nextR": "#A47148", "X_d3_min_C_to_nextR": "#6B705C", "X_dzdt_45pct_downstroke": "#7F8F6B", "X_dzdt_25pct_downstroke": "#5F7161", "X_d2_first_upward_zero_Cplus30_to_nextR": "#756D8A", "X_second_derivative_after_minimum": "#8E7DBE", "X_d2_min_C_to_nextR": "#6D597A", "X_Weissler_HR": "#8A5A83", "X_adaptive_half_descent_to_trough": "#A26769", "X_rr_adaptive_global_minimum": "#7C6A5D", "X_15pct_downstroke": "#5C677D"
+  },
+  "algorithm_markers": {
+    "B_last_local_minimum": "^", "B_d3_last_downward_zero_Cminus180_to_Cminus10": "^", "B_d3_max_Cminus150_to_Cminus30": "^", "B_dzdt_45pct_upstroke": "^", "B_dzdt_25pct_upstroke": "^", "B_d2_max_Cminus150_to_Cminus30": "^", "B_d2_last_upward_zero_Cminus180_to_Cminus10": "^", "B_55pct_RC": "^", "B_adaptive_baseline_10pct_upstroke": "^", "B_15pct_upstroke": "^",
+    "X_first_local_minimum": "v", "X_global_minimum": "v", "X_d3_first_upward_zero_Cplus30_to_nextR": "v", "X_d3_min_C_to_nextR": "v", "X_dzdt_45pct_downstroke": "v", "X_dzdt_25pct_downstroke": "v", "X_d2_first_upward_zero_Cplus30_to_nextR": "v", "X_second_derivative_after_minimum": "v", "X_d2_min_C_to_nextR": "v", "X_Weissler_HR": "v", "X_adaptive_half_descent_to_trough": "v", "X_rr_adaptive_global_minimum": "v", "X_15pct_downstroke": "v"
+  },
+  "participant_colours": {
+    "heartcycle:CH01": "#4477AA", "heartcycle:CH02": "#66CCEE", "heartcycle:CH03": "#228833", "heartcycle:CH04": "#CCBB44", "heartcycle:CH05": "#EE6677", "heartcycle:CH06": "#AA3377", "heartcycle:CH07": "#BBBBBB", "heartcycle:CH08": "#332288", "heartcycle:CH09": "#88CCEE", "heartcycle:CH10": "#44AA99", "heartcycle:CH11": "#999933", "heartcycle:CH12": "#DDCC77", "heartcycle:CH13": "#CC6677", "heartcycle:CH14": "#882255", "heartcycle:CH15": "#117733", "heartcycle:CH16": "#6699CC", "heartcycle:CH17": "#888888"
+  },
+  "participant_markers": {
+    "heartcycle:CH01": "o", "heartcycle:CH02": "o", "heartcycle:CH03": "o", "heartcycle:CH04": "o", "heartcycle:CH05": "o", "heartcycle:CH06": "o", "heartcycle:CH07": "o", "heartcycle:CH08": "o", "heartcycle:CH09": "o", "heartcycle:CH10": "o", "heartcycle:CH11": "o", "heartcycle:CH12": "o", "heartcycle:CH13": "o", "heartcycle:CH14": "o", "heartcycle:CH15": "o", "heartcycle:CH16": "o", "heartcycle:CH17": "o"
+  },
+  "participant_palette": ["#4477AA", "#228833", "#AA3377", "#CCBB44", "#66AACC", "#774466", "#449988", "#AA7744", "#667799", "#882255", "#117733", "#999933", "#CC6677", "#44AA99", "#6699CC", "#888888", "#332288", "#88CCEE", "#DDCC77", "#8C6D31", "#636363", "#8C6BB1", "#527A3D", "#B76546"],
+  "condition_colours": {"overall": "#526777", "normal": "#4477AA", "rest": "#4477AA", "post_exercise": "#CC6677", "exercise_recovery": "#CC6677", "baseline": "#4477AA", "cognitive_workload": "#CC6677"},
+  "condition_markers": {"overall": "o", "normal": "o", "rest": "o", "post_exercise": "s", "exercise_recovery": "s", "baseline": "o", "cognitive_workload": "s"},
+  "signed_error_colours": {"negative": "#3B6C8E", "positive": "#A65A4E", "zero": "#5A5A5A"},
+  "category_colours": {"low": "#4477AA", "high": "#CC6677", "consistent": "#4477AA", "variable": "#CC6677"},
+  "category_markers": {"low": "o", "high": "s", "consistent": "o", "variable": "s"},
+  "reference_styles": {"ECHO AVO": {"colour": "#2F6B4F", "linestyle": "--", "marker": "D"}, "ECHO AVC": {"colour": "#7A3E3E", "linestyle": ":", "marker": "D"}},
+  "signal_styles": {"raw": {"colour": "#B8BDC1", "linewidth": 0.7}, "filtered": {"colour": "#263F4F", "linewidth": 1.2}},
+  "box_style": {"facecolour": "#E6EAED", "edgecolour": "#4D5961"},
+  "dpi": 300,
+  "font_family": "Arial"
+}

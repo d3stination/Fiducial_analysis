@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "raw_h5_files": 212,
+  "phase1_counts": {
+    "reused": true
+  },
+  "phase2_counts": {
+    "reused": true
+  },
+  "phase3_counts": {
+    "reused": true
+  },
+  "phase4_counts": {
+    "reused": true
+  },
+  "phase4_final_counts": {
+    "reused": true
+  },
+  "checks_passed": 6,
+  "checks_total": 6,
+  "all_passed": true
+}

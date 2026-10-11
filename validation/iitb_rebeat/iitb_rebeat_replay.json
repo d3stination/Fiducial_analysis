@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "recordings": 84,
+  "beats": 20654,
+  "candidate_records": 475042,
+  "strata": 92,
+  "canonical_strata": 92,
+  "index_match": true,
+  "differing_cells": 0,
+  "passed": true
+}

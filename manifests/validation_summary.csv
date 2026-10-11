@@ -1,0 +1,24 @@
+check,passed,observed,expected
+dataset algorithm strata,True,115,115
+dataset labels,True,"['HeartCycle', 'IITB', 'ReBeat']","HeartCycle, IITB, ReBeat"
+all B methods,True,10,10
+all X methods,True,13,13
+status denominators reconcile,True,0,0
+dataset summary unique,True,0,0
+six-feature morphology tests,True,1794,1794
+six morphology features,True,6,6
+condition morphology tests,True,672,672
+condition morphology supported count,True,14,14
+IITB X3 row unique,True,1,1
+IITB X3 rho,True,0.3973597071195132,0.3973597071195132
+IITB X3 exact permutation p,True,0.1111111111111111,0.1111111111111111
+IITB X3 q,True,0.9604357211337692,0.9604357211337692
+IITB X3 unsupported,True,False,False
+IITB X3 bootstrap caution,True,conditional on non-degenerate resamples; 17 of 18 failure changes were zero; the positive interval is not independent support,conditional non-degenerate-resample limitation
+failure reason strata,True,115,115
+failure reason reconciliation,True,checked,all reason totals equal failed or ineligible totals
+accepted figure panels,True,66/66,66/66
+frozen detector hashes,True,3/3,3/3
+no raw recordings,True,[],none
+no private absolute paths,True,[],none
+final Word report present,True,True,True

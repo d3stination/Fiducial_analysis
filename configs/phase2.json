@@ -1,0 +1,14 @@
+{
+  "datasets": {
+    "IITB": {"ids": ["iitb_normal", "iitb_post_exercise"], "conditions": ["normal", "post_exercise"], "labels": ["Under-rest", "Post-exercise"], "source": "https://www.ee.iitb.ac.in/~spilab/databases/IITB-ICG-Database/IITB-ICG-Database-Description_2025jul08.pdf"},
+    "ReBeat": {"ids": ["rebeat_baseline", "rebeat_cognitive"], "conditions": ["baseline", "cognitive_workload"], "labels": ["Baseline (BL)", "Cognitive workload (CW)"], "source": "https://zenodo.org/records/4725433"}
+  },
+  "seed": 20261009,
+  "bootstrap_replicates": 4000,
+  "condition_colours": ["#416984", "#AC624E"],
+  "participant_palette": ["#4477AA", "#228833", "#AA3377", "#CCBB44", "#66AACC", "#774466", "#449988", "#AA7744", "#667799", "#882255", "#117733", "#999933", "#CC6677", "#44AA99", "#6699CC", "#888888", "#332288", "#88CCEE", "#DDCC77", "#8C6D31", "#636363", "#8C6BB1", "#527A3D", "#B76546"],
+  "category_rule": "participant median over both conditions; values equal to median assigned low; missing remains unavailable",
+  "morphology_region": "B: [R,C); X: [C,nextR); independent of candidate success",
+  "detailed_method_selection": "largest absolute median paired failure-rate change, tie-break numeric registry ID; descriptive selection",
+  "reference_analysis": "none; ReBeat expert annotations audited separately, not used in reliability outcomes"
+}

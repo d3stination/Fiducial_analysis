@@ -1,0 +1,34 @@
+panel,subject_id,participant_effect,participant_observation_n,participant_failed_n,participant_valid_n
+HeartCycle B1,heartcycle:CH01,0.2519546949214468,69.0,,
+HeartCycle B1,heartcycle:CH02,0.2023908812899638,109.0,,
+HeartCycle B1,heartcycle:CH03,0.3051176624967194,70.0,,
+HeartCycle B1,heartcycle:CH04,0.5794477791116447,50.0,,
+HeartCycle B1,heartcycle:CH05,-0.0247298919567827,50.0,,
+HeartCycle B1,heartcycle:CH06,0.3622448979591836,48.0,,
+HeartCycle B1,heartcycle:CH07,-0.1449444769140853,59.0,,
+HeartCycle B1,heartcycle:CH08,0.3245766391663048,48.0,,
+HeartCycle B1,heartcycle:CH09,0.2159468438538206,42.0,,
+HeartCycle B1,heartcycle:CH10,0.1168067226890756,35.0,,
+HeartCycle B1,heartcycle:CH11,-0.0666666666666666,19.0,,
+HeartCycle B1,heartcycle:CH12,0.1043381535038932,30.0,,
+HeartCycle B1,heartcycle:CH13,0.290760667903525,99.0,,
+HeartCycle B1,heartcycle:CH14,0.2316990254589408,62.0,,
+HeartCycle B1,heartcycle:CH15,0.2023880807298087,88.0,,
+HeartCycle B1,heartcycle:CH16,0.1494009866102889,44.0,,
+HeartCycle B1,heartcycle:CH17,0.5302655677655677,64.0,,
+IITB post-exercise X4,iitb:BS,-1873.51480627038,115.0,104.0,11.0
+IITB post-exercise X4,iitb:GS,-1002.330827270638,54.0,26.0,28.0
+IITB post-exercise X4,iitb:KS,-347.3869750250369,58.0,36.0,22.0
+IITB post-exercise X4,iitb:MN,-904.2925024944652,234.0,158.0,76.0
+IITB post-exercise X4,iitb:MS,-317.8452589015683,138.0,73.0,65.0
+IITB post-exercise X4,iitb:NL,-550.2775390396218,86.0,43.0,43.0
+IITB post-exercise X4,iitb:RM,-414.1683687673258,59.0,9.0,50.0
+IITB post-exercise X4,iitb:SA,-406.7830946393633,80.0,17.0,63.0
+IITB post-exercise X4,iitb:SD,-436.1488258261552,74.0,58.0,16.0
+IITB post-exercise X4,iitb:SG,-4916.413440499358,155.0,34.0,121.0
+IITB post-exercise X4,iitb:SK,-196.26724157768052,90.0,36.0,54.0
+IITB post-exercise X4,iitb:SM,-474.7821397683047,70.0,5.0,65.0
+IITB post-exercise X4,iitb:SP,-445.5078923027204,44.0,20.0,24.0
+IITB post-exercise X4,iitb:SZ,-1199.4940415875717,73.0,16.0,57.0
+IITB post-exercise X4,iitb:VK,-254.53235981079345,119.0,41.0,78.0
+IITB post-exercise X4,iitb:ZP,-1800.0983918869624,161.0,22.0,139.0

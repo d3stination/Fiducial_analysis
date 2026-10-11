@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+configs/paths.local.yaml
+validation/.heartcycle_replay/
+validation/rendered_report/
+validation/rendered_report_word/
+validation/.iitb_rebeat_replay/
+validation/.matplotlib/
+*.log
+.DS_Store
+Thumbs.db
